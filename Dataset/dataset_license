@@ -1,0 +1,7 @@
+The glucocorticoid receptor dataset from ChEMBL is redistributed according to the ChEMBL Data license with a Creative Commons Attribution-Share Alike 3.0 Unported License [1-3]. For details about how the dataset was collected, please see reference [4].
+
+[1] ChEMBL Data Licensing. https://chembl.gitbook.io/chembl-interface-documentation/about#data-licensing
+[2] Creative Commons—CC BY-SA 3.0 License. https://creativecommons.org/licenses/by-sa/3.0/
+[3] Gaulton A, Hersey A, Nowotka M et al (2017) The ChEMBL database in 2017. Nucleic Acids Res 45:D945–D954. https://doi.org/10.1093/nar/gkw1074
+[4] Scalfani, V.F., Patel, V.D. & Fernandez, A.M. Visualizing chemical space networks with RDKit and NetworkX. J Cheminform, 2022, 14, 87. https://doi.org/10.1186/s13321-022-00664-x
+
