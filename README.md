@@ -11,6 +11,11 @@ The *Less_Memory_Calculations/* folder contains an alternative script for the CS
 This script/method was not part of the original article; we added it here as it was useful to us for running the
 calculations on a Raspberry Pi 400 with only 4 GB RAM.
 
-The `CSN_calculations_lessMem.py` script takes about 5 hours to run on the Raspberry Pi 400 (using 3 cores)
-and about 25 minutes on a 12th generation Intel Core i9 desktop processor (using 22 cores).
+Approximate run times for the `CSN_calculations_lessMem.py` script:
+
+| Hardware                                    | Number of Cores used | Rounded Run Time |
+|---------------------------------------------|:--------------------:|-----------------:|
+| 12th generation Intel Core i9, 64 GB RAM    | 22                   |    25 min        |
+| Raspberry Pi 5, 8 GB RAM                    | 3                    |    3 hours       |
+| Raspberry Pi 400, 4 GB RAM                  | 3                    |    5 hours       |
 
